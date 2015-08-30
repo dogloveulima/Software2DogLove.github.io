@@ -415,7 +415,9 @@ Small Device Styles
   h6 {
     font-size: 12px;
   }
-
+.main-content ul, .main-content ol {
+  margin-top: 0; }
+  
   code, pre {
     min-width: 320px;
     max-width: 480px;
