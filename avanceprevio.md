@@ -12,19 +12,10 @@
  | Riesgo de seguridad de la app | Contar un servicio para la seguridad de la app | Contratar al proveedor del servicio | 
 
 
-
-
-
-
-
-
-
-
-   
 * Product Backlog inicial
 
   | _ID HISTORIA_ | Nombre de la Historia | Estado | Tamaño | Sprint | Importancia | Como probarlo | Comentarios
-  | ---- | ---------- | ----- | ----- | ------ | ----- | ------------- | ------------- |  
+  | ---- | ---------- | ----- | ----- | ------ | ----- | --------------- | ------------- |  
   | 1 | Página de Bienvenida | planeado | 4 | 1 | 2 | Al ingresar a la aplicación, el usuario se encontrará en esta página | Página de bienvenida |
   | 2 | Registrarse creando cuenta| planeado | 10 | 1 | 8 | El usuario se registra creandose una cuenta | Los usuarios se registran para tener acceso |
   | 3 | Loguearse con Facebook | planeado | 15 | 2 | 8 |  El usuario se registra  ingresando con facebook, seleccionar la opción y verificar que se muestre sus datos. | Los usuarios sincronizan su cuenta de facebook con la aplicación para poder registrarse |
