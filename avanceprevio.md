@@ -1,6 +1,7 @@
 
  * Plan de proyecto
    * [EDT y GANTT](https://drive.google.com/a/ulima.pe/file/d/0B2tEOF09K5G8N242bG1jN2lfbDg/view?usp=sharing).
+   
    * Plan de Riesgos
    
   | Riesgo | Mitigación | Reacción |
@@ -34,22 +35,6 @@
   | 8 | Buscar Parejas | planeado | 20 | 3 | 10 | De acuerdo al filtro de búsqueda se mostrarán los perros que cumplan con los requisitos, y así poder encontrar a la pareja de su mascota. Además, se eligirá si el perro encontrado será aceptado o rechazado para así poder encontrar un match |Se muestran posibles parejas para la mascota y se aceptan y rechazan para buscar posibles match | 
   | 9 | Chatear | planeado | 18 | 3 | 7 | Con los perros matcheados, se podrá iniciar un chat para el futuro encuentro de los caninos | Se abre un con el dueño de la mascota aceptada, generándose un historial de conversaciones |
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
 
 * Sprint Backlog (100%)
 * Prototipos (wireframes) (50%)
