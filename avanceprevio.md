@@ -10,7 +10,7 @@
    
 * Product Backlog inicial
 
-  | ID HISTORIA | Nombre de la Historia | Estado | Tamaño | Sprint | Importancia | Como probarlo | Comentarios
+  | _ID HISTORIA_ | Nombre de la Historia | Estado | Tamaño | Sprint | Importancia | Como probarlo | Comentarios
   | ---- | ---------- | ----- | ----- | ------ | ----- | ------------- | ------------- |  
   | 1 | Página de Bienvenida | planeado | 4 | 1 | 2 | Al ingresar a la aplicación, el usuario se encontrará en esta página | Página de bienvenida |
   | 2 | Registrarse creando cuenta| planeado | 10 | 1 | 8 | El usuario se registra creandose una cuenta | Los usuarios se registran para tener acceso |
@@ -20,7 +20,7 @@
   | 6 | Mostrar servicios adicionales | planeado | 4 | 1 | 5 | Se mostrarán servicios relacionados para las mascota como fotografía, veterinaria, spa, etc. | Se muestran servicios para perros | 
   | 7 | Ingresar Preferencias de Búsqueda | planeado | 8 | 2 | 8 | Se ingresarán datos para limitar la búsqueda personalizada como distrito, raza, edad. Datos necesarios para buscar a la pareja de su mascota | Se ingresan datos para la búsqueda de la pareja de la mascota | 
   | 8 | Buscar Parejas | planeado | 20 | 3 | 10 | De acuerdo al filtro de búsqueda se mostrarán los perros que cumplan con los requisitos, y así poder encontrar a la pareja de su mascota. Además, se eligirá si el perro encontrado será aceptado o rechazado para así poder encontrar un match |Se muestran posibles parejas para la mascota y se aceptan y rechazan para buscar posibles match | 
-  | 9 | Chatear | planeado | 18 | 3 | 7 | Con los perros matcheados, se podrá iniciar un chat para el futuro encuentro de los caninos | Se chatea con el dueño de la mascota aceptada |
+  | 9 | Chatear | planeado | 18 | 3 | 7 | Con los perros matcheados, se podrá iniciar un chat para el futuro encuentro de los caninos | Se abre un con el dueño de la mascota aceptada, generándose un historial de conversaciones |
  
 
 
