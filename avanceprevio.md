@@ -5,8 +5,20 @@
    
   | Riesgo | Mitigación | Reacción |
   | ------------ | ------------- | ------------- |  
-  | Bajo conocimiento de Android | Asistir a taller de Android | Tomar más horas de las planificadas |
-  | Demora en el despliegue de la app en los markets | Planificar con 5 días como mínimo el despliegue | Enviar un mail a Apple para   acelerar la verificación. |
+  | Implementación de una funcionalidad de la app mal| Asistir a los talleres de Android | 	Tomar más horas de las planificadas para la investigación de conocimientos de programación para que las funcionalidades de la app funcionen perfectamente. |
+  | Mala distribución del tiempo para poder desarrollar la app| Reajustar las fechas en el Gantt | Coordinación entre todos los integrantes del grupo para reuniones, desarrollo de la app, ver requerimientos (funcionales y no funcionales), reuniones vía internet |
+  | La aplicación no es aceptada por el público |	Desarrollar métricas para predecir la aceptación del público |	Según las métricas determinar que se puede mejorar para la app |
+ | Riesgo de seguridad de la app | Contar un servicio para la seguridad de la app | Contratar al proveedor del servicio | 
+
+
+
+
+
+
+
+
+
+
    
 * Product Backlog inicial
 
