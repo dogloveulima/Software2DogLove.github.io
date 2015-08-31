@@ -10,6 +10,7 @@
   | Mala distribución del tiempo para poder desarrollar la app| Reajustar las fechas en el Gantt | Coordinación entre todos los integrantes del grupo para reuniones, desarrollo de la app, ver requerimientos (funcionales y no funcionales), reuniones vía internet |
   | La aplicación no es aceptada por el público |	Desarrollar métricas para predecir la aceptación del público |	Según las métricas determinar que se puede mejorar para la app |
  | Riesgo de seguridad de la app | Contar un servicio para la seguridad de la app | Contratar al proveedor del servicio | 
+ | Falta de gestión de proyectos efectiva | Tener feedbkack's de cada tareas a realizar para la ejecución de la aplicación | Cada integrante hará un feedback al product owner de turno al final de cada sprint de acuerdo a su experiencia y problemas que tuvo con sus tareas
 
 
 * Product Backlog inicial
