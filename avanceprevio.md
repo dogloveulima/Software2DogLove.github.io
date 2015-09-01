@@ -2,7 +2,7 @@
 layout: template
 ---
  * Plan de proyecto
-   * [EDT y GANTT](https://drive.google.com/a/ulima.pe/file/d/0B2tEOF09K5G8N242bG1jN2lfbDg/view?usp=sharing).
+   * [EDT y GANTT](https://drive.google.com/file/d/0B8OVG2Gb3mfGRUE3OE9heHFfUlU/view?usp=sharing).
    
    * Plan de Riesgos
    
