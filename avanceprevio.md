@@ -2,7 +2,9 @@
 layout: template
 ---
  * Plan de proyecto
-   * [EDT y GANTT](https://drive.google.com/file/d/0B8OVG2Gb3mfGRUE3OE9heHFfUlU/view?usp=sharing).
+   * [GANTT](https://drive.google.com/file/d/0B8OVG2Gb3mfGRUE3OE9heHFfUlU/view?usp=sharing).
+   
+   * [EDT]
    
    * Plan de Riesgos
    
