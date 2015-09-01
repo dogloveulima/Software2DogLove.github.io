@@ -4,7 +4,8 @@ layout: template
 
  * Plan de proyecto
    * EDT
-      ![EDT](https://drive.google.com/a/ulima.pe/file/d/0B15z3xubarW9X082cVRBZTBIT0U/view?usp=sharing)
+      ![EDT]
+(https://drive.google.com/a/ulima.pe/file/d/0B15z3xubarW9X082cVRBZTBIT0U/view?usp=sharing)
    * [GANTT](https://drive.google.com/a/ulima.pe/file/d/0B2tEOF09K5G8N242bG1jN2lfbDg/view?usp=sharing).
    
    * Plan de Riesgos
