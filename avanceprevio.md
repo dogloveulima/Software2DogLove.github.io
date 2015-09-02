@@ -4,7 +4,7 @@ layout: template
  * Plan de proyecto
    * [GANTT](https://drive.google.com/file/d/0B8OVG2Gb3mfGRUE3OE9heHFfUlU/view?usp=sharing).
    
-   * [EDT]
+   * EDT
    
    * Plan de Riesgos
    
